@@ -7,8 +7,8 @@ Saint Petersburg, Russia
 <troshina.ks@gmail.com>   
 +7 9034384041   
 
-https://www.github.com/ohmyohwell  
-https://t.me/ohmyohwell  
+<https://www.github.com/ohmyohwell>  
+<https://t.me/ohmyohwell>  
 
 ***
 
