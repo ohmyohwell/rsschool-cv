@@ -22,12 +22,21 @@ https://www.github.com/ohmyohwell
 2021 - now  
 EPAM Systems, Lead L&D Specialist, Instructional Designer
 
-2016 - 2021 
+2016 - 2021   
 EPAM Systems, Lead Language Trainer
 
 **Education and qualifications**
 
-2019
+2019  
+Diploma in teaching English to adults (Cambridge Assessment English)  
+
+2010   
+Certificate of Proficiency in English, grade A (Cambridge Assessment English)
+
+2008  
+Russian South Federal University
+specialist degree in teaching English and Russian as a foreign language
+
 
 ***
 **Programming knowledge**
