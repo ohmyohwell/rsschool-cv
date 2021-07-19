@@ -8,7 +8,7 @@ Saint Petersburg, Russia
 +7 9034384041   
 
 https://www.github.com/ohmyohwell  
-<t.me/ohmyohwell>  
+https://t.me/ohmyohwell  
 
 ***
 
